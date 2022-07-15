@@ -4,4 +4,4 @@ repositorio de proyecto del portafolio de Jerry Pacheco en academlo
 
 ## Proyectos
 
-- [Landing Page de tipo Portafolio-CV](https://jerry0811.github.io/academlo/portafolio-cv)
+- [Landing Page de tipo Portafolio-CV](https://jerry0811.github.io/portafolio-cv/portafolio-cv/)
